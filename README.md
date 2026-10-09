@@ -1,5 +1,5 @@
 # .github
-Template padrão de novas issues
+F9C Security - Organization standards and templates
 
 ## Objetivo
 
